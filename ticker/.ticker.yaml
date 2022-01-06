@@ -1,0 +1,29 @@
+# ~/.ticker.yaml
+show-summary: true
+show-tags: true
+show-fundamentals: true
+show-separator: true
+show-holdings: true
+interval: 5
+currency: USD
+currency-summary-only: false
+watchlist:
+  - GME 
+  - AMC 
+  - TMUS 
+  - BTC-USD
+lots:
+  - symbol: "GME"
+    quantity: 12.0
+    unit_cost: 152.60
+  
+  
+ 
+
+
+groups:
+  - name: crypto
+    watchlist:
+      - BTC-USD
+      - ETH-USD
+   
